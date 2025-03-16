@@ -17,5 +17,5 @@ elif operator == '/':
         result = num1 / num2
 else:
     print("Invalid operator! Please enter +, -, *, or /.")
-print(f"{num1} {operator} {num2} = {result}")
-3
+print(f"{num1} {operator} {num2} = {result}") #eg 10+5=15
+
